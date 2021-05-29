@@ -1,6 +1,6 @@
 {
   "name": "@altipla/langs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utilities to prepare and translate langs.",
   "main": "./src/index.js",
   "type": "module",
