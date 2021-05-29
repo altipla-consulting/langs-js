@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/altipla-consulting/langs#readme",
   "files": [
-    "./src/index.js"
+    "src/index.js"
   ],
   "scripts": {
     "test": "ava",
